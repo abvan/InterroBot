@@ -1,5 +1,6 @@
 ![alt text](https://www.hult.edu/blog/media/uploads/2017/10/artificial-intelligence-recruitment.jpg)
-***<p style="text-align: center;">InterroBot</p>***
+
+# ***<p style="text-align: center;">InterroBot</p>***
 
 InterroBot is an intelligent interview assistant that leverages AI technologies to conduct pre-screening technical interviews. It aims to streamline the recruitment process by efficiently assessing candidates' technical proficiency before proceeding to in-person interviews.
 
