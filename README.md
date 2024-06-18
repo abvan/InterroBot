@@ -15,7 +15,7 @@ Technologies Used - **TBD**
 
 Getting Started
 
-Clone the repository: git clone https://github.com/your-username/InterroBot.git
+Clone the repository: git clone https://github.com/abvan/InterroBot.git
 Install the required dependencies: pip install -r requirements.txt
 Set up the necessary API keys and configurations for the AI models you're using.
 Run the bot: python main.py
