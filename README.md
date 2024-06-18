@@ -11,9 +11,7 @@ InterroBot is an intelligent interview assistant that leverages AI technologies 
 **Technical Evaluation :** Interrobot interacts with the candidate using pre defined Basic Technical Questions pertaining to any technology. Future Development pipeline includes dynamically tailoring the interview questions based on the candidate's responses, probing their depth of knowledge and problem-solving abilities.
 **Scoring and Feedback :** The bot provides a comprehensive evaluation report, including a technical score and detailed feedback on the candidate's performance.
 
-Technologies Used
-
-<TBD>
+Technologies Used - **TBD**
 
 Getting Started
 
